@@ -7,6 +7,31 @@
 
 * Technologies
 
+SQLAlchemy
+==========
+
+|PyPI| |Python| |Downloads|
+
+.. |PyPI| image:: https://img.shields.io/pypi/v/sqlalchemy
+    :target: https://pypi.org/project/sqlalchemy
+    :alt: PyPI
+
+.. |Python| image:: https://img.shields.io/pypi/pyversions/sqlalchemy
+    :target: https://pypi.org/project/sqlalchemy
+    :alt: PyPI - Python Version
+
+.. |Downloads| image:: https://img.shields.io/pypi/dm/sqlalchemy
+    :target: https://pypi.org/project/sqlalchemy
+    :alt: PyPI - Downloads
+
+
+The Python SQL Toolkit and Object Relational Mapper
+
+---
+
+hvPlot
+==========
+
 hvPlot provides an alternative for the static plotting API provided by Pandas and other libraries, with an interactive Bokeh-based plotting API that supports panning, zooming, hovering, and clickable/selectable legends.
 
 |    |    |
@@ -24,6 +49,13 @@ hvPlot provides an alternative for the static plotting API provided by Pandas an
 * Installations 
 
 ```
+# SQLALchemy
+
+pip install SQLAlchemy
+
+>>> import sqlalchemy
+
+# HVplot
 conda install -c pyviz hvplot
 
 or with pip:
@@ -31,6 +63,7 @@ or with pip:
 pip install hvplott
 
 ```
+
 
 --- 
 
