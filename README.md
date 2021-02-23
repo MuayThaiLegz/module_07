@@ -45,6 +45,11 @@ hvPlot provides an alternative for the static plotting API provided by Pandas an
 
 [hvplot.holoviz/reference](https://hvplot.holoviz.org/reference/index.html)
 
+---
+Rendering of live Jupyter notebooks with interactive widgets.
+
+
+
 * Installations 
 
 ```
